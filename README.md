@@ -1,4 +1,4 @@
-# Workshop2-linux-commands
+# Workshop2-linux&Windows-commands
 # LINUX-BASIC-COMMANDS
 # 25 Essential Linux Commands
 
