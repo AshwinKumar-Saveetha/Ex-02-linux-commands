@@ -253,7 +253,351 @@ Syntax: find.-name”*.pdf”
 
 <img width="218" height="67" alt="image" src="https://github.com/user-attachments/assets/b9e7eeff-2d1c-4cd2-b762-474d3d31346a" />
 
+Got it 👍 You want a **similar style list of 25 basic Windows commands** (like you did for Linux).
+Here’s a well-structured version for **Windows CMD (Command Prompt)** that beginners and advanced users can use.
+
+---
+
+# 25 Essential Windows Commands
+
+These commands are widely used for Windows system administration, file management, and troubleshooting.
+Perfect for beginners and power users alike.
+
+---
+
+### 1) **dir Command**
+
+The `dir` command displays a list of files and directories in the current folder.
+
+**Syntax:**
+
+```cmd
+dir
+```
+<img width="748" height="368" alt="image" src="https://github.com/user-attachments/assets/32dba479-e9bf-4805-bd6e-85a5e859237c" />
+
+---
+
+### 2) **cd Command**
+
+The `cd` command is used to change the current working directory.
+
+**Syntax:**
+
+```cmd
+cd foldername
+```
+<img width="753" height="61" alt="image" src="https://github.com/user-attachments/assets/b93bcbcc-cc77-4f9c-b22d-d8a153433e23" />
+
+---
+
+### 3) **cls Command**
+
+The `cls` command clears the terminal (Command Prompt) screen.
+
+**Syntax:**
+
+```cmd
+cls
+```
+
+<img width="801" height="477" alt="image" src="https://github.com/user-attachments/assets/2f087e3a-cd87-4bd0-a791-1fef186212de" />
+<br>
+<img width="784" height="111" alt="image" src="https://github.com/user-attachments/assets/137a4750-7e31-49b9-ae50-0097e895e511" />
+
+---
+
+### 4) **mkdir Command**
+
+The `mkdir` command is used to create a new directory.
+
+**Syntax:**
+
+```cmd
+mkdir foldername
+```
+<img width="831" height="287" alt="image" src="https://github.com/user-attachments/assets/0fe1903c-b079-4750-93ba-4833a14f4c9d" />
+
+---
+
+### 5) **rmdir Command**
+
+The `rmdir` command deletes a directory (only if it is empty).
+
+**Syntax:**
+
+```cmd
+rmdir foldername
+```
+<img width="848" height="268" alt="image" src="https://github.com/user-attachments/assets/af9ec6d1-746d-478c-b6f6-beb848705663" />
+
+---
+
+### 6) **del Command**
+
+The `del` command deletes one or more files.
+
+**Syntax:**
+
+```cmd
+del filename.txt
+```
+<img width="848" height="93" alt="image" src="https://github.com/user-attachments/assets/b345ce00-4a36-4f9c-8d2b-cda58ef1f186" />
+
+---
+
+### 7) **copy Command**
+
+The `copy` command copies files from one location to another.
+
+**Syntax:**
+
+```cmd
+copy file1.txt D:\backup\
+```
+<img width="1125" height="244" alt="image" src="https://github.com/user-attachments/assets/1b4f3580-2f39-4847-bcb8-7d31d4c19629" />
+
+---
+
+### 8) **move Command**
+
+The `move` command moves files from one directory to another.
+
+**Syntax:**
+
+```cmd
+move file.txt D:\newfolder\
+```
+<img width="1203" height="59" alt="image" src="https://github.com/user-attachments/assets/224bb5ab-60b0-4449-9b20-9136ccfa4858" />
+
+---
+
+### 9) **rename Command**
+
+The `rename` command is used to rename a file.
+
+**Syntax:**
+
+```cmd
+rename oldname.txt newname.txt
+```
+<img width="1079" height="270" alt="image" src="https://github.com/user-attachments/assets/44b5e16b-c18c-45c5-ae07-4cb6879a8dda" />
+
+---
+
+### 10) **type Command**
+
+The `type` command displays the contents of a text file.
+
+**Syntax:**
+
+```cmd
+type filename.txt
+```
+<img width="871" height="166" alt="image" src="https://github.com/user-attachments/assets/036fd021-4308-4bd3-97dc-556e055d8b77" />
+
+---
+
+### 11) **echo Command**
+
+The `echo` command displays messages or turns command echoing on/off.
+
+**Syntax:**
+
+```cmd
+echo Hello, World!
+```
+<img width="883" height="115" alt="image" src="https://github.com/user-attachments/assets/6f6070c2-558f-4e56-8c15-8f8d5981b993" />
+
+---
+
+### 12) **exit Command**
+
+The `exit` command closes the Command Prompt window.
+
+**Syntax:**
+
+```cmd
+exit
+```
+<img width="887" height="479" alt="image" src="https://github.com/user-attachments/assets/480f30a9-727b-4e09-978a-a905b15be856" />
+
+<img width="856" height="166" alt="image" src="https://github.com/user-attachments/assets/e167baed-7db7-4337-ae25-19d0372c9a7f" />
+
+---
+
+### 13) **tasklist Command**
+
+The `tasklist` command shows all currently running processes.
+
+**Syntax:**
+
+```cmd
+tasklist
+```
+<img width="770" height="443" alt="image" src="https://github.com/user-attachments/assets/3788ffad-5f44-4adb-aee8-1e68f79d8938" />
+
+---
+
+### 14) **taskkill Command**
+
+The `taskkill` command terminates a running process.
+
+**Syntax:**
+
+```cmd
+taskkill /IM notepad.exe /F
+```
+<img width="884" height="75" alt="image" src="https://github.com/user-attachments/assets/4292f979-5456-4e81-94dc-7410a38c2f90" />
+
+---
+
+### 15) **ipconfig Command**
+
+The `ipconfig` command displays the computer’s network configuration (IP address, subnet mask, gateway, etc.).
+
+**Syntax:**
+
+```cmd
+ipconfig
+```
+<img width="714" height="371" alt="image" src="https://github.com/user-attachments/assets/397fa886-2b48-4a55-b9f1-1872446389a4" />
+
+---
+
+### 16) **ping Command**
+
+The `ping` command checks network connectivity to a website or IP address.
+
+**Syntax:**
+
+```cmd
+ping google.com
+```
+<img width="783" height="302" alt="image" src="https://github.com/user-attachments/assets/b4e1933a-60b8-419e-82cc-3c2b3ae7befd" />
+
+---
+
+### 17) **netstat Command**
+
+The `netstat` command shows active network connections and ports.
+
+**Syntax:**
+
+```cmd
+netstat
+```
+<img width="712" height="230" alt="image" src="https://github.com/user-attachments/assets/f2c85cd3-8f03-44b5-8e2a-bb8a4c2b32ca" />
+
+---
+
+### 18) **systeminfo Command**
+
+The `systeminfo` command displays detailed system information like OS version, RAM, and processor.
+
+**Syntax:**
+
+```cmd
+systeminfo
+```
+<img width="717" height="372" alt="image" src="https://github.com/user-attachments/assets/a3d99e4d-0df8-42db-9ba6-5504a62b8cb4" />
+
+---
+
+### 19) **chkdsk Command**
+
+The `chkdsk` command checks the file system and disk for errors.
+
+**Syntax:**
+
+```cmd
+chkdsk C:
+```
+<img width="715" height="215" alt="image" src="https://github.com/user-attachments/assets/e65aba77-8cc4-41b4-8d0a-f577f2410b23" />
+
+
+---
+
+### 20) **sfc Command**
+
+The `sfc` command scans and repairs corrupted system files.
+
+**Syntax:**
+
+```cmd
+sfc /scannow
+```
+<img width="728" height="203" alt="image" src="https://github.com/user-attachments/assets/8f7f9255-7b79-4c99-9453-a63017b8d4dd" />
+
+---
+
+### 21) **shutdown Command**
+
+The `shutdown` command shuts down or restarts the computer.
+
+**Syntax:**
+
+```cmd
+shutdown /s   (Shutdown)  
+shutdown /r   (Restart)
+```
+<img width="244" height="72" alt="image" src="https://github.com/user-attachments/assets/5257e8c7-2884-4678-bbd4-3726a67084fa" />
+
+---
+
+### 22) **whoami Command**
+
+The `whoami` command displays the current logged-in user.
+
+**Syntax:**
+
+```cmd
+whoami
+```
+<img width="696" height="73" alt="image" src="https://github.com/user-attachments/assets/bb5226f1-d175-4444-ba04-43cbe2ef87b6" />
+
+---
+
+### 23) **hostname Command**
+
+The `hostname` command displays the computer’s hostname.
+
+**Syntax:**
+
+```cmd
+hostname
+```
+<img width="709" height="67" alt="image" src="https://github.com/user-attachments/assets/c94d281d-c593-4c14-8074-582fd7c63772" />
+
+---
+
+### 24) **date & time Command**
+
+The `date` and `time` commands are used to display or set the system date and time.
+
+**Syntax:**
+
+```cmd
+date
+time
+```
+<img width="672" height="88" alt="image" src="https://github.com/user-attachments/assets/add59f7d-754a-44c0-b76e-9ff2584461dc" />
+
+---
+
+### 25) **help Command**
+
+The `help` command lists all available commands in Windows CMD.
+
+**Syntax:**
+
+```cmd
+help
+```
+<img width="724" height="321" alt="image" src="https://github.com/user-attachments/assets/adab65c7-d575-4919-ba74-2efbad64a56c" />
+
 
 
 ## Conclusion 
-These 25 essential Linux commands cover the most common tasks we’ll see while working in a terminal — from navigation (ls, cd, pwd) and file management (cp, mv, rm, touch) to text viewing/editing (cat, nano, less) and system information (df, du, history).
+
+These 25 Linux and 25 Windows commands build a strong foundation in navigation, file management, system information, networking, and troubleshooting across both operating systems.
